@@ -1,10 +1,16 @@
 {
-  "name": "aSnKE0P4oc8vXOdRH50dz9aRESDWhuggl6tvUzYuW8wTzGTeIB",
+  "name": "แนวทางดาวโจนส์ vipวันนี้ สรุปว่าอะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.22",
   "description": "แนวทางดาวโจนส์ vipวันนี้ ถ่ายทอดสด ใน แนวทางดาวโจนส์ vipวันนี้ Choke หวยออนไลน์ อันดับหนึ่ง ไทย พบ มาเลเซีย ยู-23 ชิงแชมป์ซีเกมส์ ฤดูกาล 2022 (รอบแบ่งกลุ่ม",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["แนวทางดาวโจนส์ VIPวันนี้","แนวทางดาวโจนส์","VIPวันนี้","แนวทางดาวโจนส์ Choke","VIPวันนี้ Choke"],
+  "keywords": [
+    "แนวทางดาวโจนส์ VIPวันนี้",
+    "แนวทางดาวโจนส์",
+    "VIPวันนี้",
+    "แนวทางดาวโจนส์ Choke",
+    "VIPวันนี้ Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
