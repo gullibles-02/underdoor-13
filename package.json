@@ -1,10 +1,16 @@
 {
-  "name": "NPysEJxgs7kWDn6owtfP7eoSIKR54ueqQ5xFwQNdwPFUnuZ1QN",
+  "name": "บาทละ 99 ได้อย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "บาทละ 99 หวยหุ้น ตาม บาทละ 99 ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง เซียนหวยทุกท่านจะต้องรู้จักกันเป็นอย่างแน่นอน เพราะอยู่คู่กับคนไทยมานานแสนนาน และเป",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["บาทละ 99","บาทละ","99","บาทละ Huay Happy","99 Huay Happy"],
+  "keywords": [
+    "บาทละ 99",
+    "บาทละ",
+    "99",
+    "บาทละ Huay Happy",
+    "99 Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
