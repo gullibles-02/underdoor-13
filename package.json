@@ -1,10 +1,16 @@
 {
-  "name": "BVJa4KpX1ZtZVh33YExK8rnDwg8nwgXQgL9gPzvEEVg6OlpEhu",
+  "name": "โปรแกรมคํานวณหวย excel ดูที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "โปรแกรมคํานวณหวย excel เล่น หาก โปรแกรมคํานวณหวย excel Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด 1 ตัวโอกาศ ถูก โปรแกรมคํานวณหวย excel 1เล่น 20 ตัวโอกาศ ถูก 20เ",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["โปรแกรมคํานวณหวย EXCEL","โปรแกรมคํานวณหวย","EXCEL","โปรแกรมคํานวณหวย Huay24","EXCEL Huay24"],
+  "keywords": [
+    "โปรแกรมคํานวณหวย EXCEL",
+    "โปรแกรมคํานวณหวย",
+    "EXCEL",
+    "โปรแกรมคํานวณหวย Huay24",
+    "EXCEL Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
