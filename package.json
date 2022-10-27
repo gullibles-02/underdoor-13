@@ -1,10 +1,20 @@
 {
-  "name": "AtW19Oy4R91MmchBohh1OVhONZPBz0xTKtvDQHBTt3OwwoM4u3",
+  "name": "หวยจีน เล่น ยัง ไง สรุปว่าอะไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.45",
   "description": "หวยจีน เล่น ยัง ไง เมื่อได้เลขเด็ดจากสำนักต่างๆ ตั้งแต่ หวยจีน เล่น ยัง ไง Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด ที่ต้องการแล้ว ก็อย่าลืมสำหรับสิ่งที่ควรรู",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["หวยจีน เล่น ยัง ไง","หวยจีน","เล่น","ยัง","ไง","หวยจีน Huaydee","เล่น Huaydee","ยัง Huaydee","ไง Huaydee"],
+  "keywords": [
+    "หวยจีน เล่น ยัง ไง",
+    "หวยจีน",
+    "เล่น",
+    "ยัง",
+    "ไง",
+    "หวยจีน Huaydee",
+    "เล่น Huaydee",
+    "ยัง Huaydee",
+    "ไง Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
