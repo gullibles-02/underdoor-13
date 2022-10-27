@@ -1,13 +1,10 @@
 {
-  "name": "หวยยี่กี ทำไมถึงนิยม - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "BVJa4KpX1ZtZVh33YExK8rnDwg8nwgXQgL9gPzvEEVg6OlpEhu",
   "theme": "syntax",
   "version": "1.0.10",
-  "description": "หวยยี่กี 01-04-05-06-0721-24-25-26-2731-34-36-3781-84-85-86-8791-94-95-96-97คอหวยสามารถนำเลขเด็ดงวดนี้ไปคัดเลือกตัวที่ชื่นชอบเพื่อใช้เป็นแนวทางได้ เนื่องแต",
+  "description": "โปรแกรมคํานวณหวย excel เล่น หาก โปรแกรมคํานวณหวย excel Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด 1 ตัวโอกาศ ถูก โปรแกรมคํานวณหวย excel 1เล่น 20 ตัวโอกาศ ถูก 20เ",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": [
-    "หวยยี่กี",
-    "หวยยี่กี Huay Happy"
-  ],
+  "keywords": ["โปรแกรมคํานวณหวย EXCEL","โปรแกรมคํานวณหวย","EXCEL","โปรแกรมคํานวณหวย Huay24","EXCEL Huay24"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
