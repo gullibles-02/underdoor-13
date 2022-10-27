@@ -1,0 +1,12 @@
+{
+  "name": "MiHeCTf5yoetV4TKHaEfMuUF7wah6GpzTsbQtKeArNOt9YrzjC",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ผลหวยหุ้นต่างประเทศย้อนหลัง 2564 สำหรับสถิติย้อนหลัง หาก ผลหวยหุ้นต่างประเทศย้อนหลัง 2564 Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด หวยหุ้นฮั่งเส็ง 10 งวดเรามั",
+  "repository": "https://github.com/gullibles-02/underdoor-13",
+  "keywords": ["ผลหวยหุ้นต่างประเทศย้อนหลัง 2564","ผลหวยหุ้นต่างประเทศย้อนหลัง","2564","ผลหวยหุ้นต่างประเทศย้อนหลัง Lotto","2564 Lotto"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
