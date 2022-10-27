@@ -1,10 +1,18 @@
 {
-  "name": "RzJolMc2FZWF9WJ3pLj9HTMfDwsBKe4O7WvOYpgWTMkvOpdFxZ",
+  "name": "โอกาสถูกหวย 3 ตัว คืออะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "โอกาสถูกหวย 3 ตัว วิ่งรูด ว่าด้วย โอกาสถูกหวย 3 ตัว Huaylike หวยออนไลน์ อันดับหนึ่ง 6 โอกาสถูกหวย 3 ตัว 5เลข 2 ตัว 65 69 59ขอให้สนุกกับการซื้อหวยออนไลน์งวด",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["โอกาสถูกหวย 3 ตัว","โอกาสถูกหวย","3","ตัว","โอกาสถูกหวย Huaylike","3 Huaylike","ตัว Huaylike"],
+  "keywords": [
+    "โอกาสถูกหวย 3 ตัว",
+    "โอกาสถูกหวย",
+    "3",
+    "ตัว",
+    "โอกาสถูกหวย Huaylike",
+    "3 Huaylike",
+    "ตัว Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
