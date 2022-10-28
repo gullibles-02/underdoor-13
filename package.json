@@ -1,10 +1,13 @@
 {
-  "name": "tM7PLyEG0YQhFxJB5XMHW6Fwp9s6TyrwQCyEj2LT4nrs0LfoGm",
+  "name": "ตรวจลอตเตอรี่ออนไลน์ เล่นที่ไหน - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.76",
   "description": "ตรวจลอตเตอรี่ออนไลน์ เลข แต่ว่า ตรวจลอตเตอรี่ออนไลน์ ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง 3 ตัว         534เลขธูป ตรวจลอตเตอรี่ออนไลน์ 3 ตัว 880ขอให้สนุกกั",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["ตรวจลอตเตอรี่ออนไลน์","ตรวจลอตเตอรี่ออนไลน์ Choke"],
+  "keywords": [
+    "ตรวจลอตเตอรี่ออนไลน์",
+    "ตรวจลอตเตอรี่ออนไลน์ Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
