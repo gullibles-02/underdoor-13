@@ -1,10 +1,13 @@
 {
-  "name": "B8eX8js4L3y0yOJIyZM3Y7klBpFbXpi5I5MR2vXuCc8kXjQkKM",
+  "name": "lotto432 สรุปว่าอะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "Lotto432 โดยหวยหุ้นไทยจะมี แด่ Lotto432 ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง 4 รอบ1.หุ้นไทยเปิดเช้า ผลออก 10.00น.2.หุ้นไทยเที่ยง ผลออก 12.30น.3.หุ้นไทยเปิด",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": ["LOTTO432","LOTTO432 Choke"],
+  "keywords": [
+    "LOTTO432",
+    "LOTTO432 Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
