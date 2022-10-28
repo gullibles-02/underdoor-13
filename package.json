@@ -1,13 +1,10 @@
 {
-  "name": "แนวทางฮั่งเส็งวันนี้ มีคำตอบ - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "frXdGAOrSXVrchrWg9EbT9rITSLdtFpxpQUVs4XcWRlwV0FZyr",
   "theme": "syntax",
   "version": "1.0.86",
   "description": "แนวทางฮั่งเส็งวันนี้ Epl อนึ่ง แนวทางฮั่งเส็งวันนี้ Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด English Premier League ช่องดูบอลสด แมนยู ช่องดูบอลสด แมนยู",
   "repository": "https://github.com/gullibles-02/underdoor-13",
-  "keywords": [
-    "แนวทางฮั่งเส็งวันนี้",
-    "แนวทางฮั่งเส็งวันนี้ Huay Happy"
-  ],
+  "keywords": ["แนวทางฮั่งเส็งวันนี้","แนวทางฮั่งเส็งวันนี้ Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
